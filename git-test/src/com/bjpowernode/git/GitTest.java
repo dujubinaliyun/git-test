@@ -8,4 +8,7 @@ package com.bjpowernode.git;
  * @Copyright © 2009-2021 动力节点
  */
 public class GitTest {
+    public static void main(String[] args) {
+
+    }
 }
